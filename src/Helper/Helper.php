@@ -37,7 +37,7 @@ class Helper
         {
             $paymentMethodData = array( 'pluginKey' => 'plenty_StationaryInvoicePayment',
                                         'paymentKey' => 'StationaryInvoicePayment',
-                                        'name' => 'Zahlung Rechnung über Kasse');
+                                        'name' => 'Verkauf an Firmengruppe');
  
             $this->paymentMethodRepository->createPaymentMethod($paymentMethodData);
         }
