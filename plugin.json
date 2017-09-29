@@ -1,7 +1,7 @@
 {
     "version"           : "1.0.0",
     "name"              : "StationaryInvoicePayment",
-    "marketplaceName"   : {"de":"Verkauf an Firmengruppe","en":"Payment Technigroup"},
+    "marketplaceName"   : {"de":"Zahlung Rechnung über Kasse","en":"Invoice Payment (POS)"},
     "license"           : "MIT",
     "pluginIcon"        : "icon_plugin_xs.png",
     "price"             : 0.00,
