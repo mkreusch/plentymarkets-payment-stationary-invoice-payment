@@ -1,5 +1,5 @@
 {
-    "version"           : "1.0.0",
+    "version"           : "1.0.1",
     "name"              : "StationaryInvoicePayment",
     "marketplaceName"   : {"de":"Zahlung Rechnung über Kasse","en":"Invoice Payment (POS)"},
     "license"           : "MIT",
